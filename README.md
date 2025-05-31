@@ -1,2 +1,2 @@
 # my-demo
-This is demo for github class
+This is my demo-repo for github 
